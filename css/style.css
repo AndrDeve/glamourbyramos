@@ -941,7 +941,7 @@ body .copy span .span {
   }
   .header .header-center .header-center-items {
     flex-direction: row;
-    padding: 0.5rem 6%;
+    padding: 0.5rem 3%;
   }
   .header .header-center .header-center-items .navbar {
     position: absolute;
