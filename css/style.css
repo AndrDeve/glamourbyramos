@@ -435,7 +435,7 @@ html .img__item:hover .container__item__hover {
 }
 
 .titulos4 {
-  background-image: url(../img/fondito.png);
+  background-image: url(../img/f1.png);
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1008,7 +1008,7 @@ body .copy span .span {
   }
   .titulos4 {
     padding: 0 3%;
-    background-image: url(../img/fondito2.png);
+    background-image: url(../img/f2.png);
   }
 }
 @media (max-width: 740px) {
