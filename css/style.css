@@ -217,8 +217,8 @@ body {
   justify-content: space-between;
 }
 .titulos .container-nosotros img {
-  height: 20rem;
-  width: 20rem;
+  height: 15rem;
+  width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
 }
