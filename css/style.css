@@ -1136,6 +1136,9 @@ body .copy span .span {
     min-height: 80vh;
     background-position: 55% 90% !important;
   }
+  .informacion .container-informacion .informacion-item h3 {
+    font-size: 2.5rem;
+  }
   .informacion .container-informacion .informacion-item p {
     font-size: 1.7rem;
   }
