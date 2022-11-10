@@ -172,7 +172,9 @@ body {
   margin-top: 0.8rem;
   font-size: 2.1rem;
   color: #9a258e;
-  font-family: "Roboto", sans-serif;
+  font-family: "Lobster", cursive;
+  letter-spacing: 1px;
+  font-weight: 500;
 }
 .informacion .container-informacion .informacion-item p {
   width: 100%;
@@ -1120,7 +1122,7 @@ body .copy span .span {
   .titulos .container-nosotros .textos-nosotros img {
     margin-top: 1rem;
     height: 10rem;
-    width: 25rem;
+    width: 27rem;
   }
   .titulos .container-nosotros .textos-nosotros p {
     font-size: 1.9rem;
