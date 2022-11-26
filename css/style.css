@@ -1018,6 +1018,7 @@ body .copy span .span {
 }
 @media (max-width: 768px) {
   #menu-btn {
+    font-size: 2.5rem;
     display: inline-block;
     color: #9a258e;
     /*rotar la X */
@@ -1055,7 +1056,8 @@ body .copy span .span {
     color: #c39e2e;
   }
   .header .header-center .header-center-items .logos-redes-sociales .bx {
-    font-size: 3rem;
+    font-size: 2.5rem;
+    margin: 0 0.3rem;
   }
   .informacion .container-informacion .informacion-item {
     width: 32%;
