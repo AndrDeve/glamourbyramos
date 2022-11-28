@@ -40,6 +40,16 @@ body {
   z-index: 4000;
   border-bottom: 1px solid rgba(5, 83, 85, 0.3);
 }
+.header .nav-superior {
+  background: #000;
+  text-align: center;
+}
+.header .nav-superior p {
+  color: #ffffff;
+  padding: 1rem 0;
+  letter-spacing: 0.2rem;
+  font-size: 1.2rem;
+}
 .header .header-center {
   background: #ffffff;
 }
