@@ -1241,6 +1241,12 @@ body .copy span .span {
     width: 70%;
   }
 }
+@media (max-width: 650px) {
+  .swiper-slide img {
+    width: 18rem;
+    height: 18rem;
+  }
+}
 @media (max-width: 620px) {
   .productos .contenedor-productos .items-imagenes {
     padding: 0;
@@ -1252,11 +1258,8 @@ body .copy span .span {
     height: 37rem;
     width: 34rem;
   }
-}
-@media (max-width: 650px) {
-  .swiper-slide img {
-    width: 18rem;
-    height: 18rem;
+  .titulos3 .fondo-categoria .categoria .contenedor-categoria1 .item-categoria {
+    margin-bottom: 0.8rem;
   }
 }
 @media (max-width: 550px) {
