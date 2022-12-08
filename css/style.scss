@@ -540,11 +540,11 @@ html .img__item:hover .container__item__hover{
     .categoria{
         padding: 0 6%;
 
-        .contenedor-categoria{
-            display: flex;
-            justify-content: space-around;
-            margin: 2rem 0 3.5rem 0;
-        }
+        // .contenedor-categoria{
+        //     display: flex;
+        //     justify-content: space-around;
+        //     margin: 2rem 0 3.5rem 0;
+        // }
 
         .contenedor-categoria1{
             display: flex;
@@ -554,6 +554,7 @@ html .img__item:hover .container__item__hover{
 
         .item-categoria{
             position: relative;
+            margin-bottom: 2.5rem;
 
             img{
                 height: 25rem;
