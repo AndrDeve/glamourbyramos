@@ -431,8 +431,15 @@ body{
 
         h3{
             font-size: 1.8rem;
-            margin-bottom: 1rem;
+            margin-bottom: .6rem;
             color: #333333;
+        }
+
+        p{
+            margin-bottom: .6rem;
+            font-size: 1.6rem;
+            font-weight: 400;
+            font-style: italic;
         }
 
         span{
@@ -480,22 +487,22 @@ html .img__item:hover .container__item__hover{
     border-radius: .5rem;
   }  
 
-.boton-comprar{
-    text-align: center;
-    margin-top: 2.5rem;
+// .boton-comprar{
+//     text-align: center;
+//     margin-top: 2.5rem;
 
-    button:hover{
-        transform: scale(1.05);
-    }
+//     button:hover{
+//         transform: scale(1.05);
+//     }
 
-    button a{
-        background: #222222;
-        color: #ffffff;
-        padding: 1rem 3.5rem;
-        font-size: 1.5rem;
-        border-radius: .5rem;
-    }
-}  
+//     button a{
+//         background: #222222;
+//         color: #ffffff;
+//         padding: 1rem 3.5rem;
+//         font-size: 1.5rem;
+//         border-radius: .5rem;
+//     }
+// }  
 
 //busca por categoria
 .titulos3{
