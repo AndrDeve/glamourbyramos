@@ -945,6 +945,11 @@ body .copy span .span {
 .productos .contenedor-productos .items-imagenes .contenedor .textos i {
   font-size: 2.5rem;
 }
+.productos .contenedor-productos .items-imagenes .contenedor .textos .material {
+  font-size: 2rem;
+  font-style: italic;
+  font-weight: 300;
+}
 .productos .contenedor-productos .items-imagenes .contenedor .span {
   color: #c39e2e;
   font-size: 2.2rem;

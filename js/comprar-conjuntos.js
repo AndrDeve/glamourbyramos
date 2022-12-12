@@ -1,0 +1,223 @@
+// ARETES
+document.querySelector("#submit73").addEventListener("click", e => {
+e.preventDefault();
+
+//INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
+let telefono = "573172171691";
+
+let ref73 = document.querySelector("#ref73").textContent;
+let n73 = document.querySelector("#n73").textContent;
+let precio73 = document.querySelector("#precio73").textContent;
+let material73= document.querySelector("#mate73").textContent;
+
+let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
+*_Bienvenidos a Glamour By Ramos_*%0A%0A
+*Sección conjuntos*%0A%0A
+*Tu compra:*%0A%0A
+*Ref del producto:*%0D
+${ref73}%0A%0A
+*Nombre del producto:*%0D
+${n73}%0A%0A
+*Material:*%0D
+${material73}%0A%0A
+*Precio:*%0D
+${precio73}%0A%0A`;
+
+window.open(url);    
+});
+
+
+document.querySelector("#submit74").addEventListener("click", e => {
+e.preventDefault();
+
+//INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
+let telefono = "573172171691";
+
+let ref74 = document.querySelector("#ref74").textContent;
+let n74 = document.querySelector("#n74").textContent;
+let precio74 = document.querySelector("#precio74").textContent;
+let material74= document.querySelector("#mate74").textContent;
+
+let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
+*_Bienvenidos a Glamour By Ramos_*%0A%0A
+*Sección conjuntos*%0A%0A
+*Tu compra:*%0A%0A
+*Ref del producto:*%0D
+${ref74}%0A%0A
+*Nombre del producto:*%0D
+${n74}%0A%0A
+*Material:*%0D
+${material74}%0A%0A
+*Precio:*%0D
+${precio74}%0A%0A`;
+
+window.open(url);    
+});
+
+
+document.querySelector("#submit75").addEventListener("click", e => {
+e.preventDefault();
+
+//INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
+let telefono = "573172171691";
+
+let ref75 = document.querySelector("#ref75").textContent;
+let n75 = document.querySelector("#n75").textContent;
+let precio75 = document.querySelector("#precio75").textContent;
+let material75= document.querySelector("#mate75").textContent;
+
+let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
+*_Bienvenidos a Glamour By Ramos_*%0A%0A
+*Sección conjuntos*%0A%0A
+*Tu compra:*%0A%0A
+*Ref del producto:*%0D
+${ref75}%0A%0A
+*Nombre del producto:*%0D
+${n75}%0A%0A
+*Material:*%0D
+${material75}%0A%0A
+*Precio:*%0D
+${precio75}%0A%0A`;
+
+window.open(url);    
+});
+
+
+document.querySelector("#submit4").addEventListener("click", e => {
+e.preventDefault();
+
+//INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
+let telefono = "573172171691";
+
+let ref4 = document.querySelector("#ref4").textContent;
+let n4 = document.querySelector("#n4").textContent;
+let precio4 = document.querySelector("#precio4").textContent;
+let material4= document.querySelector("#mate4").textContent;
+
+let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
+*_Bienvenidos a Glamour By Ramos_*%0A%0A
+*Sección conjuntos*%0A%0A
+*Tu compra:*%0A%0A
+*Ref del producto:*%0D
+${ref4}%0A%0A
+*Nombre del producto:*%0D
+${n4}%0A%0A
+*Material:*%0D
+${material4}%0A%0A
+*Precio:*%0D
+${precio4}%0A%0A`;
+
+window.open(url);    
+});
+
+
+document.querySelector("#submit5").addEventListener("click", e => {
+e.preventDefault();
+
+//INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
+let telefono = "573172171691";
+
+let ref5 = document.querySelector("#ref5").textContent;
+let n5 = document.querySelector("#n5").textContent;
+let precio5 = document.querySelector("#precio5").textContent;
+let material5= document.querySelector("#mate5").textContent;
+
+let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
+*_Bienvenidos a Glamour By Ramos_*%0A%0A
+*Sección conjuntos*%0A%0A
+*Tu compra:*%0A%0A
+*Ref del producto:*%0D
+${ref5}%0A%0A
+*Nombre del producto:*%0D
+${n5}%0A%0A
+*Material:*%0D
+${material5}%0A%0A
+*Precio:*%0D
+${precio5}%0A%0A`;
+
+window.open(url);    
+});
+
+document.querySelector("#submit6").addEventListener("click", e => {
+e.preventDefault();
+
+//INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
+let telefono = "573172171691";
+
+let ref6 = document.querySelector("#ref6").textContent;
+let n6 = document.querySelector("#n6").textContent;
+let precio6 = document.querySelector("#precio6").textContent;
+let material6= document.querySelector("#mate6").textContent;
+
+let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
+*_Bienvenidos a Glamour By Ramos_*%0A%0A
+*Sección conjuntos*%0A%0A
+*Tu compra:*%0A%0A
+*Ref del producto:*%0D
+${ref6}%0A%0A
+*Nombre del producto:*%0D
+${n6}%0A%0A
+*Material:*%0D
+${material6}%0A%0A
+*Precio:*%0D
+${precio6}%0A%0A`;
+
+window.open(url);    
+});
+
+
+document.querySelector("#submit7").addEventListener("click", e => {
+e.preventDefault();
+
+//INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
+let telefono = "573172171691";
+
+let ref7 = document.querySelector("#ref7").textContent;
+let n7 = document.querySelector("#n7").textContent;
+let precio7 = document.querySelector("#precio7").textContent;
+let material7= document.querySelector("#mate7").textContent;
+
+let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
+*_Bienvenidos a Glamour By Ramos_*%0A%0A
+*Sección conjuntos*%0A%0A
+*Tu compra:*%0A%0A
+*Ref del producto:*%0D
+${ref7}%0A%0A
+*Nombre del producto:*%0D
+${n7}%0A%0A
+*Material:*%0D
+${material7}%0A%0A
+*Precio:*%0D
+${precio7}%0A%0A`;
+
+window.open(url);    
+});
+
+
+document.querySelector("#submit8").addEventListener("click", e => {
+e.preventDefault();
+
+//INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
+let telefono = "573172171691";
+
+let ref8 = document.querySelector("#ref8").textContent;
+let n8 = document.querySelector("#n8").textContent;
+let precio8 = document.querySelector("#precio8").textContent;
+let material8= document.querySelector("#mate8").textContent;
+
+let url = `https://api.whatsapp.com/send?phone=${telefono}&text=
+*_Bienvenidos a Glamour By Ramos_*%0A%0A
+*Sección conjuntos*%0A%0A
+*Tu compra:*%0A%0A
+*Ref del producto:*%0D
+${ref8}%0A%0A
+*Nombre del producto:*%0D
+${n8}%0A%0A
+*Material:*%0D
+${material8}%0A%0A
+*Precio:*%0D
+${precio8}%0A%0A`;
+
+window.open(url);    
+});
+    
