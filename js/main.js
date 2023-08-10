@@ -45,7 +45,7 @@ $(document).ready(function() {
     message += `Total: C$${total.toFixed(2)}`;
 
     // Reemplaza "tu-número-de-WhatsApp" con tu número de WhatsApp
-    const url = `https://api.whatsapp.com/send?phone=+573172171691&text=${encodeURIComponent(message)}`;
+    const url = `https://api.whatsapp.com/send?phone=+50587617146&text=${encodeURIComponent(message)}`;
 
     // Abre la URL en una nueva pestaña
     window.open(url, '_blank');
