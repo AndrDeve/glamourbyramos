@@ -59,12 +59,12 @@ body {
 /* Estilo para el contenido de la ventana modal */
 .modal-content {
   background-color: #fff;
-  color: #c39e2e;
+  color: #73266b;
   padding: 30px 40px;
   border-radius: 10px;
   box-shadow: 3px 3px 3px 2px rgba(214, 13, 171, 0.2);
   text-align: center;
-  font-size: 17px;
+  font-size: 18px;
   font-weight: 500;
 }
 
